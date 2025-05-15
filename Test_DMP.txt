@@ -1,3 +1,0 @@
-This is main local file.
-
-New change
